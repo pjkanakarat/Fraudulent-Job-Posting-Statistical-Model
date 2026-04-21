@@ -1,6 +1,6 @@
 %% 1. Load the Data
 % Assuming the file is named 'job_postings.csv'
-data = readtable('fake_job_postings.csv');
+data = readtable('synthetic_job_data_v2.csv');
 
 % Extract the relevant columns (7: Description, 8: Requirements, 9: Benefits)
 % and the label (assuming it is named 'fraudulent')

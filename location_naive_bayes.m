@@ -1,6 +1,6 @@
 clc; clear;
 
-data = readtable("fake_job_postings.csv");
+data = readtable("./data/fake_job_postings.csv");
 isFraud = data.fraudulent;  
 raw_location = string(data.location);
 n = height(data);

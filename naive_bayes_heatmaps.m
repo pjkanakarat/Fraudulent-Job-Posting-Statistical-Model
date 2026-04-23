@@ -3,7 +3,7 @@
 clc, clear
 
 % load csv
-data = readtable("fake_job_postings.csv");
+data = readtable("./data/fake_job_postings.csv");
 
 for i = 1:height(data)
     if ~isempty(data.company_profile{i}) && ~strcmp(data.company_profile{i}, '')

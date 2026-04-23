@@ -1,0 +1,26 @@
+Responsiblities
+Develop and debug embded firmware in C/C++ for ARM-based microcontrolers
+Interface with sensers (IMU, camras, LiDAR simulators)
+Assist in desinging real-time controll loops for robotic subsytems
+Work with electrical enginers to test hardwear prototypes
+Wrtie unit tests and maintane documentation
+Required Qualifcations
+Bachelors degree in Computer Enginering, Electrical Enginering, or relatd feild
+Experiance with C or C++ programing
+Familiarity with microcontrolers (STM32, ESP32, or similer)
+Basic understanding of digital circuts and signal proccessing
+Ability to debug hardwear/softwear integration issues
+Prefered Qualifcations
+Experiance with RTOS (FreeRTOS or similer)
+Exposure to robotics frameworks (ROS/ROS2)
+Knowlege of Python for tooling and testing
+Experiance with oscilliscopes or logic analizers
+What We Offer
+Competetive salary: $78,000 – $92,000
+Flexable hybird work enviroment
+“Innovation Fridays” to work on expiremental ideas
+Access to a robotics lab (robots may or may not behave corectly)
+How to Apply
+
+Send your resume and a short statment about your favorit project to:
+jobs@aurora-quantom-robitics.example.com

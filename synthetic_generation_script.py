@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def generate_full_synthetic_csv(filename='synthetic_job_data_v2.csv', num_samples=1000):
+def generate_full_synthetic_csv(filename='./data/synthetic_job_data.csv', num_samples=1000):
     np.random.seed(42)
 
     # 1. Text Probabilities for Naive Bayes Validation

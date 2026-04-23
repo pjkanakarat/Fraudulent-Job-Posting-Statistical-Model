@@ -1,0 +1,39 @@
+Job Title: Junior Embedded Systems Engineer (Imaginary Robotics Division)
+
+Company: Aurora Quantum Robotics (Fictional)
+Location: Somerville, MA (Hybrid – 2 days onsite, 3 remote)
+Employment Type: Full-Time
+
+About the Role
+
+Aurora Quantum Robotics is seeking a Junior Embedded Systems Engineer to join our experimental robotics team. You will help design firmware for next-generation autonomous kitchen assistants and contribute to internal prototyping tools used in robotic perception and control.
+
+This is a hands-on role ideal for someone who enjoys low-level programming, hardware debugging, and working at the intersection of software and electronics.
+
+Responsibilities
+Develop and debug embedded firmware in C/C++ for ARM-based microcontrollers
+Interface with sensors (IMU, cameras, LiDAR simulators)
+Assist in designing real-time control loops for robotic subsystems
+Work with electrical engineers to test hardware prototypes
+Write unit tests and maintain documentation for firmware modules
+Required Qualifications
+Bachelor’s degree (or in progress) in Computer Engineering, Electrical Engineering, or related field
+Experience with C or C++ programming
+Familiarity with microcontrollers (e.g., STM32, ESP32, or similar)
+Understanding of basic digital circuits and signal processing
+Ability to debug hardware/software integration issues
+Preferred Qualifications
+Experience with RTOS (FreeRTOS or similar)
+Exposure to robotics frameworks (ROS/ROS2)
+Knowledge of Python for tooling and testing
+Experience with oscilloscopes or logic analyzers
+What We Offer
+Competitive fictional salary: $78,000 – $92,000
+Flexible hybrid work environment
+“Innovation Fridays” (work on experimental projects)
+Access to a lab full of robots that occasionally behave correctly
+How to Apply
+
+Send your resume and a short statement about your favorite embedded system project to:
+jobs@aurora-quantum-robotics.example.com
+ (not real)

@@ -1,0 +1,84 @@
+Markem-Imaje logo
+Markem-Imaje
+Share
+Show more options
+Electrical Engineer Intern 
+Salem, NH · 2 weeks ago · 87 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+
+
+$24/hr - $33/hr
+
+On-site
+
+Full-time
+
+Apply
+
+Save
+Save Electrical Engineer Intern  at Markem-Imaje
+Electrical Engineer Intern
+Markem-Imaje · Salem, NH (On-site)
+
+Apply
+
+Save
+Save Electrical Engineer Intern  at Markem-Imaje
+Show more options
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for $0
+
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+
+About the job
+Markem-Imaje is a trusted world manufacturer of product identification and traceability solutions, offering a full line of reliable and innovative inkjet, thermal transfer, laser, print and apply label systems. Markem-Imaje delivers fully integrated solutions that enable product quality and safety, regulatory and retailer compliance, better product recalls and improved manufacturing processes.
+
+The Role
+
+Are you interested in contributing to the early development of a complex electro-mechanical instrument? We give you an opportunity to work on state-of-the-art printing technology for marking and bar code printing applications.
+
+In this role, you will work with mechanical and electrical engineers and technicians to develop a controller for a breadboard of a new printer. The controller will provide thermal regulation of 3 thermal zones, read up to 6 sensors, and control up to 10 actuators. The goal is to allow easy and rapid iteration of different concepts. The controller should be flexible and easy to understand, use and modify after the completion of the internship. It would be based on either a Raspberry Pi, Arduino or STM32.
+
+We are looking for a driven electrical engineering student with training and experience in embedded systems, and microcontrollers. Because we want to leverage work done in another division of the company in France, French language skills are useful.
+
+Job Requirements
+
+Junior or senior undergraduate or master’s electrical engineering student with experience and interest in embedded systems and microcontrollers
+Eagerness and drive to make an impact in a limited time period
+Good interpersonal, written, and oral communication skills
+Ability to share knowledge and work in a strong team-oriented environment
+
+The right candidate will be aligned with our values and culture: 
+
+Collaborative entrepreneurial spirit 
+Winning through customers 
+High ethical standards, openness and trust 
+Expectations for results 
+Respect and value people 
+
+If you believe you match our values and have the experience we’re looking for, apply! We can’t wait to hear from you!
+
+Work Arrangement : Onsite
+
+Pay Range: $24.55 - $33.00 per hour
+
+We consider several job-related, non-discriminatory factors when determining the pay rate for a position, including, but not limited to, the position’s responsibilities, a candidate’s work experience, a candidate’s education/training, the position’s location, and the key skills needed for the position. Pay is one of the Total Rewards that we provide to compensate and recognize employees for their work.
+
+Benefits: Benefits for this position include: a 401(k) savings plan with employer contributions; medical, dental and vision insurance; wellness programs; health savings account, health care and dependent care flexible spending accounts; company paid short-term disability and long-term disability; company paid employee basic life and AD&D insurance; supplemental employee and dependent life insurance; optional accident, hospital indemnity and critical illness insurance; adoption, surrogacy, and fertility benefits and assistance; commuter benefits; parental, military, jury duty, and bereavement leaves of absence; paid time off, including 10 paid holidays per calendar year, business travel services; employee discounts; and an employee assistance program that includes company paid counseling sessions and legal services. Eligibility for benefits is governed by applicable plan documents and policies.
+
+All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other factors prohibited by law.
+
+Attention Applicants: If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, please let us know. Likewise, if you are limited in the ability to access or use this online application process and need an alternative method for applying, we will determine an alternate way for you to apply. Please contact keenehr@markem-imaje.com for assistance with an accommodation. Kindly specify Job Requisition Number / Job Title and Location in response.
+
+Benefits found in job post
+
+401(k)
+Vision insurance
+Commuter benefits
+Disability insurance

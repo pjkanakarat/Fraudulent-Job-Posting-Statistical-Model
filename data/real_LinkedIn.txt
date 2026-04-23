@@ -1,0 +1,22 @@
+
+Responsibilities
+ 
+
+Drive the technical evolution of the MATLAB Graphics architecture toward a cloud-native model, partnering with stakeholders to align on goals and priorities. 
+Mentor junior engineers through technical guidance and design reviews, supporting their technical growth and raising the quality bar across the team. 
+Apply modern cloud engineering practices to graphics and visualization systems (CI/CD, observability, scalability, security). 
+Deliver concrete enhancements to MATLAB graphics and interactive visualization (e.g., performance, rendering fidelity, interactivity, and new visualization capabilities). 
+Minimum Qualifications
+A bachelor's degree and 10 years of professional work experience (or equivalent experience) is required.
+Additional Qualifications
+Understanding of cloud-native architecture patterns — including scalability, reliability, and observability — to guide the evolution of a graphics architecture toward a cloud native model. 
+
+Demonstrated ability to influence cross-functional stakeholders and drive alignment on technical direction and prioritization for complex systems. 
+
+Track record of mentoring and developing engineers through technical guidance, design feedback, and architectural reviews. 
+
+Experience with MATLAB or other scientific computation and data visualization software. 
+
+Familiarity with web graphics or charting frameworks such as D3.js, Three.js, or similar. 
+
+Familiarity with designing and implementing computer graphics and data visualization systems using browser-based rendering technologies (e.g., WebGL)
